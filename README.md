@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackafein&show_icons=true&locale=en&layout=compact" alt="hackafein" /></p>
 
-![snake gif](https://github.com/hackafein/furkanceran/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/hackafein/hackafein/blob/output/github-contribution-grid-snake.gif)
